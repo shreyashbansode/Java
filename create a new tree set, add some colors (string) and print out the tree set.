@@ -1,0 +1,18 @@
+import java.util.TreeSet;
+
+public class tree {
+
+public static void main( String[] args):
+
+TreeSet<String> tree_Set = new TreeSet<String>();
+
+tree_set.add("red");
+tree_set.add("green");
+tree_set.add("white");
+tree_set.add("black");
+
+
+System.out.println("TreeSet:");
+System.out.println(tree_set);
+
+}
